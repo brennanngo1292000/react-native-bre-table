@@ -3,7 +3,7 @@ import { View, ViewPropTypes, Text, StyleSheet } from 'react-native';
 import { Cell } from './cell';
 import { sum } from '../utils';
 
-export const Row = () => {
+export const Row = props => {
   const { data, style, widthArr, height, flexArr, textStyle, ...rest } = props;
   let width = widthArr ? sum(widthArr) : 0;
 
