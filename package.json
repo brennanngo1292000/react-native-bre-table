@@ -1,0 +1,33 @@
+{
+  "name": "react-native-bre-table",
+  "version": "1.0.0",
+  "description": "Build table for react native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennanngo1292000/react-native-bre-table.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-native-table"
+  ],
+  "author": "brennanngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennanngo1292000/react-native-bre-table/issues"
+  },
+  "homepage": "https://github.com/brennanngo1292000/react-native-bre-table#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.10.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react-native": "^3.5.0",
+    "prettier": "^1.15.3",
+    "react": "^16.7.0",
+    "react-native": "^0.57.8"
+  }
+}
